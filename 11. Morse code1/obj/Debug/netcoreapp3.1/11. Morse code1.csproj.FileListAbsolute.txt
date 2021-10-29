@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\obj\Debug\netcoreapp3.1\11. Morse code1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\obj\Debug\netcoreapp3.1\11. Morse code1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\obj\Debug\netcoreapp3.1\11. Morse code1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\obj\Debug\netcoreapp3.1\11. Morse code1.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\obj\Debug\netcoreapp3.1\11. Morse code1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\bin\Debug\netcoreapp3.1\11. Morse code1.exe
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\bin\Debug\netcoreapp3.1\11. Morse code1.deps.json
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\bin\Debug\netcoreapp3.1\11. Morse code1.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\bin\Debug\netcoreapp3.1\11. Morse code1.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\bin\Debug\netcoreapp3.1\11. Morse code1.dll
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\bin\Debug\netcoreapp3.1\11. Morse code1.pdb
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\obj\Debug\netcoreapp3.1\11. Morse code1.dll
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\obj\Debug\netcoreapp3.1\11. Morse code1.pdb
+C:\Users\User\source\repos\01 Codewars\11. Morse code1\obj\Debug\netcoreapp3.1\11. Morse code1.genruntimeconfig.cache

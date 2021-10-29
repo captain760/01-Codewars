@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_15._There_was_an_old_lady_who_swallowed_a_Fly</RootNamespace>
+  </PropertyGroup>
+
+</Project>

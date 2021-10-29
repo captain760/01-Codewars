@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\01 Codewars\01 Vowels Removal from a string\obj\Debug\netcoreapp3.1\01 Vowels Removal from a string.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\01 Vowels Removal from a string\obj\Debug\netcoreapp3.1\01 Vowels Removal from a string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\01 Vowels Removal from a string\obj\Debug\netcoreapp3.1\01 Vowels Removal from a string.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\01 Vowels Removal from a string\obj\Debug\netcoreapp3.1\01 Vowels Removal from a string.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\01 Vowels Removal from a string\obj\Debug\netcoreapp3.1\01 Vowels Removal from a string.csproj.CoreCompileInputs.cache

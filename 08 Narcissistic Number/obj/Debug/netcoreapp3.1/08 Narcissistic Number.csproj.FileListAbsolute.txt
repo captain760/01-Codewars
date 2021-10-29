@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\bin\Debug\netcoreapp3.1\08 Narcissistic Number.exe
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\bin\Debug\netcoreapp3.1\08 Narcissistic Number.deps.json
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\bin\Debug\netcoreapp3.1\08 Narcissistic Number.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\bin\Debug\netcoreapp3.1\08 Narcissistic Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\bin\Debug\netcoreapp3.1\08 Narcissistic Number.dll
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\bin\Debug\netcoreapp3.1\08 Narcissistic Number.pdb
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\obj\Debug\netcoreapp3.1\08 Narcissistic Number.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\obj\Debug\netcoreapp3.1\08 Narcissistic Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\obj\Debug\netcoreapp3.1\08 Narcissistic Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\obj\Debug\netcoreapp3.1\08 Narcissistic Number.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\obj\Debug\netcoreapp3.1\08 Narcissistic Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\obj\Debug\netcoreapp3.1\08 Narcissistic Number.dll
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\obj\Debug\netcoreapp3.1\08 Narcissistic Number.pdb
+C:\Users\User\source\repos\01 Codewars\08 Narcissistic Number\obj\Debug\netcoreapp3.1\08 Narcissistic Number.genruntimeconfig.cache

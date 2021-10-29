@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\bin\Debug\netcoreapp3.1\09 Budies numbers.exe
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\bin\Debug\netcoreapp3.1\09 Budies numbers.deps.json
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\bin\Debug\netcoreapp3.1\09 Budies numbers.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\bin\Debug\netcoreapp3.1\09 Budies numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\bin\Debug\netcoreapp3.1\09 Budies numbers.dll
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\bin\Debug\netcoreapp3.1\09 Budies numbers.pdb
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\obj\Debug\netcoreapp3.1\09 Budies numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\obj\Debug\netcoreapp3.1\09 Budies numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\obj\Debug\netcoreapp3.1\09 Budies numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\obj\Debug\netcoreapp3.1\09 Budies numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\obj\Debug\netcoreapp3.1\09 Budies numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\obj\Debug\netcoreapp3.1\09 Budies numbers.dll
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\obj\Debug\netcoreapp3.1\09 Budies numbers.pdb
+C:\Users\User\source\repos\01 Codewars\09 Budies numbers\obj\Debug\netcoreapp3.1\09 Budies numbers.genruntimeconfig.cache

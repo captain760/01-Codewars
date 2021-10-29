@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\bin\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.exe
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\bin\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.deps.json
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\bin\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\bin\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\bin\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.dll
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\bin\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.pdb
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\obj\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\obj\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\obj\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\obj\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\obj\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\obj\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.dll
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\obj\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.pdb
+C:\Users\User\source\repos\01 Codewars\15. There was an old lady who swallowed a Fly\obj\Debug\netcoreapp3.1\15. There was an old lady who swallowed a Fly.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\bin\Debug\netcoreapp3.1\03 Ten Minutes Walk.exe
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\bin\Debug\netcoreapp3.1\03 Ten Minutes Walk.deps.json
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\bin\Debug\netcoreapp3.1\03 Ten Minutes Walk.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\bin\Debug\netcoreapp3.1\03 Ten Minutes Walk.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\bin\Debug\netcoreapp3.1\03 Ten Minutes Walk.dll
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\bin\Debug\netcoreapp3.1\03 Ten Minutes Walk.pdb
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\obj\Debug\netcoreapp3.1\03 Ten Minutes Walk.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\obj\Debug\netcoreapp3.1\03 Ten Minutes Walk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\obj\Debug\netcoreapp3.1\03 Ten Minutes Walk.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\obj\Debug\netcoreapp3.1\03 Ten Minutes Walk.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\obj\Debug\netcoreapp3.1\03 Ten Minutes Walk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\obj\Debug\netcoreapp3.1\03 Ten Minutes Walk.dll
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\obj\Debug\netcoreapp3.1\03 Ten Minutes Walk.pdb
+C:\Users\User\source\repos\01 Codewars\03 Ten Minutes Walk\obj\Debug\netcoreapp3.1\03 Ten Minutes Walk.genruntimeconfig.cache

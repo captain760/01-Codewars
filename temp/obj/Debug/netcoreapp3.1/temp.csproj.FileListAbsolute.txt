@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\temp\bin\Debug\netcoreapp3.1\temp.exe
+C:\Users\User\source\repos\01 Codewars\temp\bin\Debug\netcoreapp3.1\temp.deps.json
+C:\Users\User\source\repos\01 Codewars\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\temp\bin\Debug\netcoreapp3.1\temp.dll
+C:\Users\User\source\repos\01 Codewars\temp\bin\Debug\netcoreapp3.1\temp.pdb
+C:\Users\User\source\repos\01 Codewars\temp\obj\Debug\netcoreapp3.1\temp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\temp\obj\Debug\netcoreapp3.1\temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\temp\obj\Debug\netcoreapp3.1\temp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\temp\obj\Debug\netcoreapp3.1\temp.dll
+C:\Users\User\source\repos\01 Codewars\temp\obj\Debug\netcoreapp3.1\temp.pdb
+C:\Users\User\source\repos\01 Codewars\temp\obj\Debug\netcoreapp3.1\temp.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\bin\Debug\netcoreapp3.1\07 Printer Error.exe
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\bin\Debug\netcoreapp3.1\07 Printer Error.deps.json
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\bin\Debug\netcoreapp3.1\07 Printer Error.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\bin\Debug\netcoreapp3.1\07 Printer Error.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\bin\Debug\netcoreapp3.1\07 Printer Error.dll
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\bin\Debug\netcoreapp3.1\07 Printer Error.pdb
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\obj\Debug\netcoreapp3.1\07 Printer Error.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\obj\Debug\netcoreapp3.1\07 Printer Error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\obj\Debug\netcoreapp3.1\07 Printer Error.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\obj\Debug\netcoreapp3.1\07 Printer Error.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\obj\Debug\netcoreapp3.1\07 Printer Error.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\obj\Debug\netcoreapp3.1\07 Printer Error.dll
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\obj\Debug\netcoreapp3.1\07 Printer Error.pdb
+C:\Users\User\source\repos\01 Codewars\07 Printer Error\obj\Debug\netcoreapp3.1\07 Printer Error.genruntimeconfig.cache

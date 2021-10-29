@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\bin\Debug\netcoreapp3.1\13. Simple Pig Latin.exe
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\bin\Debug\netcoreapp3.1\13. Simple Pig Latin.deps.json
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\bin\Debug\netcoreapp3.1\13. Simple Pig Latin.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\bin\Debug\netcoreapp3.1\13. Simple Pig Latin.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\bin\Debug\netcoreapp3.1\13. Simple Pig Latin.dll
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\bin\Debug\netcoreapp3.1\13. Simple Pig Latin.pdb
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\obj\Debug\netcoreapp3.1\13. Simple Pig Latin.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\obj\Debug\netcoreapp3.1\13. Simple Pig Latin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\obj\Debug\netcoreapp3.1\13. Simple Pig Latin.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\obj\Debug\netcoreapp3.1\13. Simple Pig Latin.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\obj\Debug\netcoreapp3.1\13. Simple Pig Latin.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\obj\Debug\netcoreapp3.1\13. Simple Pig Latin.dll
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\obj\Debug\netcoreapp3.1\13. Simple Pig Latin.pdb
+C:\Users\User\source\repos\01 Codewars\13. Simple Pig Latin\obj\Debug\netcoreapp3.1\13. Simple Pig Latin.genruntimeconfig.cache
