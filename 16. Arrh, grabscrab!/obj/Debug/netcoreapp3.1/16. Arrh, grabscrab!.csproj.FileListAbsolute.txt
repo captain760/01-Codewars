@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\bin\Debug\netcoreapp3.1\16. Arrh, grabscrab!.exe
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\bin\Debug\netcoreapp3.1\16. Arrh, grabscrab!.deps.json
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\bin\Debug\netcoreapp3.1\16. Arrh, grabscrab!.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\bin\Debug\netcoreapp3.1\16. Arrh, grabscrab!.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\bin\Debug\netcoreapp3.1\16. Arrh, grabscrab!.dll
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\bin\Debug\netcoreapp3.1\16. Arrh, grabscrab!.pdb
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\obj\Debug\netcoreapp3.1\16. Arrh, grabscrab!.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\obj\Debug\netcoreapp3.1\16. Arrh, grabscrab!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\obj\Debug\netcoreapp3.1\16. Arrh, grabscrab!.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\obj\Debug\netcoreapp3.1\16. Arrh, grabscrab!.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\obj\Debug\netcoreapp3.1\16. Arrh, grabscrab!.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\obj\Debug\netcoreapp3.1\16. Arrh, grabscrab!.dll
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\obj\Debug\netcoreapp3.1\16. Arrh, grabscrab!.pdb
+C:\Users\User\source\repos\01 Codewars\16. Arrh, grabscrab!\obj\Debug\netcoreapp3.1\16. Arrh, grabscrab!.genruntimeconfig.cache

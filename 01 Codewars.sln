@@ -29,9 +29,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Human Readable Time", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Simple Pig Latin", "13. Simple Pig Latin\13. Simple Pig Latin.csproj", "{96DA4DD7-5286-43B6-B2E9-C64AA302A727}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Gap in Primes", "14. Gap in Primes\14. Gap in Primes.csproj", "{45EED5AD-65AE-410C-A013-B061AACC74DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14. Gap in Primes", "14. Gap in Primes\14. Gap in Primes.csproj", "{45EED5AD-65AE-410C-A013-B061AACC74DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. There was an old lady who swallowed a Fly", "15. There was an old lady who swallowed a Fly\15. There was an old lady who swallowed a Fly.csproj", "{350BB854-47EA-4316-9C2A-C53826C5A2A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15. There was an old lady who swallowed a Fly", "15. There was an old lady who swallowed a Fly\15. There was an old lady who swallowed a Fly.csproj", "{350BB854-47EA-4316-9C2A-C53826C5A2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Arrh, grabscrab!", "16. Arrh, grabscrab!\16. Arrh, grabscrab!.csproj", "{1C0B7DD1-73DD-4869-81BC-AF1910BE23F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Did You Mean", "17. Did You Mean\17. Did You Mean.csproj", "{B90E64C8-2F6F-4522-BACF-6679B0832051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. How much is the fish", "18. How much is the fish\18. How much is the fish.csproj", "{6E0913C4-2D30-41BF-8E84-9FA3710EBAE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.First non-repeating character", "19.First non-repeating character\19.First non-repeating character.csproj", "{16075D12-4E46-427C-8BF8-EA9025962D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Hamming Numbers", "20.Hamming Numbers\20.Hamming Numbers.csproj", "{5960ABA5-9AEF-4C2B-BF96-DC3AC80D73C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +109,26 @@ Global
 		{350BB854-47EA-4316-9C2A-C53826C5A2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{350BB854-47EA-4316-9C2A-C53826C5A2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{350BB854-47EA-4316-9C2A-C53826C5A2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0B7DD1-73DD-4869-81BC-AF1910BE23F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0B7DD1-73DD-4869-81BC-AF1910BE23F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0B7DD1-73DD-4869-81BC-AF1910BE23F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0B7DD1-73DD-4869-81BC-AF1910BE23F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90E64C8-2F6F-4522-BACF-6679B0832051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90E64C8-2F6F-4522-BACF-6679B0832051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90E64C8-2F6F-4522-BACF-6679B0832051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90E64C8-2F6F-4522-BACF-6679B0832051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0913C4-2D30-41BF-8E84-9FA3710EBAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0913C4-2D30-41BF-8E84-9FA3710EBAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0913C4-2D30-41BF-8E84-9FA3710EBAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0913C4-2D30-41BF-8E84-9FA3710EBAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16075D12-4E46-427C-8BF8-EA9025962D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16075D12-4E46-427C-8BF8-EA9025962D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16075D12-4E46-427C-8BF8-EA9025962D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16075D12-4E46-427C-8BF8-EA9025962D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5960ABA5-9AEF-4C2B-BF96-DC3AC80D73C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5960ABA5-9AEF-4C2B-BF96-DC3AC80D73C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5960ABA5-9AEF-4C2B-BF96-DC3AC80D73C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5960ABA5-9AEF-4C2B-BF96-DC3AC80D73C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

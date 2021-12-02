@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\bin\Debug\netcoreapp3.1\18. How much is the fish.exe
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\bin\Debug\netcoreapp3.1\18. How much is the fish.deps.json
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\bin\Debug\netcoreapp3.1\18. How much is the fish.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\bin\Debug\netcoreapp3.1\18. How much is the fish.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\bin\Debug\netcoreapp3.1\18. How much is the fish.dll
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\bin\Debug\netcoreapp3.1\18. How much is the fish.pdb
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\obj\Debug\netcoreapp3.1\18. How much is the fish.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\obj\Debug\netcoreapp3.1\18. How much is the fish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\obj\Debug\netcoreapp3.1\18. How much is the fish.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\obj\Debug\netcoreapp3.1\18. How much is the fish.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\obj\Debug\netcoreapp3.1\18. How much is the fish.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\obj\Debug\netcoreapp3.1\18. How much is the fish.dll
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\obj\Debug\netcoreapp3.1\18. How much is the fish.pdb
+C:\Users\User\source\repos\01 Codewars\18. How much is the fish\obj\Debug\netcoreapp3.1\18. How much is the fish.genruntimeconfig.cache
