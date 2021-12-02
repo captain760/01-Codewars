@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.First non-repeating char
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Hamming Numbers", "20.Hamming Numbers\20.Hamming Numbers.csproj", "{5960ABA5-9AEF-4C2B-BF96-DC3AC80D73C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. Maximum subarray sum", "21. Maximum subarray sum\21. Maximum subarray sum.csproj", "{A9E3B955-6F34-45D3-ADB2-0BAFBF3BED6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22. Prime factors", "22. Prime factors\22. Prime factors.csproj", "{5C92C39D-51E1-43AB-A2DE-0589C444134C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{5960ABA5-9AEF-4C2B-BF96-DC3AC80D73C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5960ABA5-9AEF-4C2B-BF96-DC3AC80D73C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5960ABA5-9AEF-4C2B-BF96-DC3AC80D73C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E3B955-6F34-45D3-ADB2-0BAFBF3BED6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E3B955-6F34-45D3-ADB2-0BAFBF3BED6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E3B955-6F34-45D3-ADB2-0BAFBF3BED6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E3B955-6F34-45D3-ADB2-0BAFBF3BED6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C92C39D-51E1-43AB-A2DE-0589C444134C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C92C39D-51E1-43AB-A2DE-0589C444134C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C92C39D-51E1-43AB-A2DE-0589C444134C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C92C39D-51E1-43AB-A2DE-0589C444134C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\bin\Debug\netcoreapp3.1\22. Prime factors.exe
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\bin\Debug\netcoreapp3.1\22. Prime factors.deps.json
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\bin\Debug\netcoreapp3.1\22. Prime factors.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\bin\Debug\netcoreapp3.1\22. Prime factors.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\bin\Debug\netcoreapp3.1\22. Prime factors.dll
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\bin\Debug\netcoreapp3.1\22. Prime factors.pdb
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\obj\Debug\netcoreapp3.1\22. Prime factors.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\obj\Debug\netcoreapp3.1\22. Prime factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\obj\Debug\netcoreapp3.1\22. Prime factors.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\obj\Debug\netcoreapp3.1\22. Prime factors.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\obj\Debug\netcoreapp3.1\22. Prime factors.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\obj\Debug\netcoreapp3.1\22. Prime factors.dll
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\obj\Debug\netcoreapp3.1\22. Prime factors.pdb
+C:\Users\User\source\repos\01 Codewars\22. Prime factors\obj\Debug\netcoreapp3.1\22. Prime factors.genruntimeconfig.cache
