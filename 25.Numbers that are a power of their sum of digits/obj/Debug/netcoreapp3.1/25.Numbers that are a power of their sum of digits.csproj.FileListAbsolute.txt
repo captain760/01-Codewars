@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\bin\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.exe
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\bin\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.deps.json
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\bin\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\bin\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\bin\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.dll
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\bin\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.pdb
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\obj\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\obj\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\obj\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\obj\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\obj\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\obj\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.dll
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\obj\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.pdb
+C:\Users\User\source\repos\01 Codewars\25.Numbers that are a power of their sum of digits\obj\Debug\netcoreapp3.1\25.Numbers that are a power of their sum of digits.genruntimeconfig.cache

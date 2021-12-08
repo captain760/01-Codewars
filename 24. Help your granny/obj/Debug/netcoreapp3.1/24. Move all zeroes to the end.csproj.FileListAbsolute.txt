@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\bin\Debug\netcoreapp3.1\24. Move all zeroes to the end.exe
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\bin\Debug\netcoreapp3.1\24. Move all zeroes to the end.deps.json
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\bin\Debug\netcoreapp3.1\24. Move all zeroes to the end.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\bin\Debug\netcoreapp3.1\24. Move all zeroes to the end.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\bin\Debug\netcoreapp3.1\24. Move all zeroes to the end.dll
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\bin\Debug\netcoreapp3.1\24. Move all zeroes to the end.pdb
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\obj\Debug\netcoreapp3.1\24. Move all zeroes to the end.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\obj\Debug\netcoreapp3.1\24. Move all zeroes to the end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\obj\Debug\netcoreapp3.1\24. Move all zeroes to the end.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\obj\Debug\netcoreapp3.1\24. Move all zeroes to the end.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\obj\Debug\netcoreapp3.1\24. Move all zeroes to the end.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\obj\Debug\netcoreapp3.1\24. Move all zeroes to the end.dll
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\obj\Debug\netcoreapp3.1\24. Move all zeroes to the end.pdb
+C:\Users\User\source\repos\01 Codewars\24. Help your granny\obj\Debug\netcoreapp3.1\24. Move all zeroes to the end.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\bin\Debug\netcoreapp3.1\23. Direction Reduction.exe
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\bin\Debug\netcoreapp3.1\23. Direction Reduction.deps.json
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\bin\Debug\netcoreapp3.1\23. Direction Reduction.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\bin\Debug\netcoreapp3.1\23. Direction Reduction.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\bin\Debug\netcoreapp3.1\23. Direction Reduction.dll
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\bin\Debug\netcoreapp3.1\23. Direction Reduction.pdb
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\obj\Debug\netcoreapp3.1\23. Direction Reduction.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\obj\Debug\netcoreapp3.1\23. Direction Reduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\obj\Debug\netcoreapp3.1\23. Direction Reduction.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\obj\Debug\netcoreapp3.1\23. Direction Reduction.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\obj\Debug\netcoreapp3.1\23. Direction Reduction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\obj\Debug\netcoreapp3.1\23. Direction Reduction.dll
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\obj\Debug\netcoreapp3.1\23. Direction Reduction.pdb
+C:\Users\User\source\repos\01 Codewars\23. Direction Reduction\obj\Debug\netcoreapp3.1\23. Direction Reduction.genruntimeconfig.cache
