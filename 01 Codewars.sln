@@ -47,11 +47,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21. Maximum subarray sum", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22. Prime factors", "22. Prime factors\22. Prime factors.csproj", "{5C92C39D-51E1-43AB-A2DE-0589C444134C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23. Direction Reduction", "23. Direction Reduction\23. Direction Reduction.csproj", "{FB03B2E9-997A-4588-9175-6AB70D0F7088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23. Direction Reduction", "23. Direction Reduction\23. Direction Reduction.csproj", "{FB03B2E9-997A-4588-9175-6AB70D0F7088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. Move all zeroes to the end", "24. Help your granny\24. Move all zeroes to the end.csproj", "{38F09581-C56B-496F-B6F9-9A665D895006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24. Move all zeroes to the end", "24. Help your granny\24. Move all zeroes to the end.csproj", "{38F09581-C56B-496F-B6F9-9A665D895006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.Numbers that are a power of their sum of digits", "25.Numbers that are a power of their sum of digits\25.Numbers that are a power of their sum of digits.csproj", "{DE844380-E232-4BF0-B636-B6DBDF31CE0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25.Numbers that are a power of their sum of digits", "25.Numbers that are a power of their sum of digits\25.Numbers that are a power of their sum of digits.csproj", "{DE844380-E232-4BF0-B636-B6DBDF31CE0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Snail Sort", "26. Snail Sort\26. Snail Sort.csproj", "{B709DD26-71AE-4BBF-A439-5666B820567E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Human readable duration format", "27. Human readable duration format\27. Human readable duration format.csproj", "{B0E70886-D472-41A4-ABDE-39BE18E64010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Beautiful numbers", "28. Beautiful numbers\28. Beautiful numbers.csproj", "{CE286A17-18C1-48EC-9472-E32BEF32555A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29. First Variation on Caesar Cipher", "29. First Variation on Caesar Cipher\29. First Variation on Caesar Cipher.csproj", "{C20E6C8F-D738-4B8A-8563-09361C406C03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +167,22 @@ Global
 		{DE844380-E232-4BF0-B636-B6DBDF31CE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE844380-E232-4BF0-B636-B6DBDF31CE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE844380-E232-4BF0-B636-B6DBDF31CE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B709DD26-71AE-4BBF-A439-5666B820567E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B709DD26-71AE-4BBF-A439-5666B820567E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B709DD26-71AE-4BBF-A439-5666B820567E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B709DD26-71AE-4BBF-A439-5666B820567E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E70886-D472-41A4-ABDE-39BE18E64010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E70886-D472-41A4-ABDE-39BE18E64010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E70886-D472-41A4-ABDE-39BE18E64010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E70886-D472-41A4-ABDE-39BE18E64010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE286A17-18C1-48EC-9472-E32BEF32555A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE286A17-18C1-48EC-9472-E32BEF32555A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE286A17-18C1-48EC-9472-E32BEF32555A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE286A17-18C1-48EC-9472-E32BEF32555A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20E6C8F-D738-4B8A-8563-09361C406C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20E6C8F-D738-4B8A-8563-09361C406C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20E6C8F-D738-4B8A-8563-09361C406C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20E6C8F-D738-4B8A-8563-09361C406C03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

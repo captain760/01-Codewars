@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\bin\Debug\netcoreapp3.1\26. Snail Sort.exe
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\bin\Debug\netcoreapp3.1\26. Snail Sort.deps.json
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\bin\Debug\netcoreapp3.1\26. Snail Sort.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\bin\Debug\netcoreapp3.1\26. Snail Sort.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\bin\Debug\netcoreapp3.1\26. Snail Sort.dll
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\bin\Debug\netcoreapp3.1\26. Snail Sort.pdb
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\obj\Debug\netcoreapp3.1\26. Snail Sort.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\obj\Debug\netcoreapp3.1\26. Snail Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\obj\Debug\netcoreapp3.1\26. Snail Sort.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\obj\Debug\netcoreapp3.1\26. Snail Sort.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\obj\Debug\netcoreapp3.1\26. Snail Sort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\obj\Debug\netcoreapp3.1\26. Snail Sort.dll
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\obj\Debug\netcoreapp3.1\26. Snail Sort.pdb
+C:\Users\User\source\repos\01 Codewars\26. Snail Sort\obj\Debug\netcoreapp3.1\26. Snail Sort.genruntimeconfig.cache

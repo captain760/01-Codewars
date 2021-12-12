@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\bin\Debug\netcoreapp3.1\27. Human readable duration format.exe
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\bin\Debug\netcoreapp3.1\27. Human readable duration format.deps.json
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\bin\Debug\netcoreapp3.1\27. Human readable duration format.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\bin\Debug\netcoreapp3.1\27. Human readable duration format.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\bin\Debug\netcoreapp3.1\27. Human readable duration format.dll
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\bin\Debug\netcoreapp3.1\27. Human readable duration format.pdb
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\obj\Debug\netcoreapp3.1\27. Human readable duration format.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\obj\Debug\netcoreapp3.1\27. Human readable duration format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\obj\Debug\netcoreapp3.1\27. Human readable duration format.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\obj\Debug\netcoreapp3.1\27. Human readable duration format.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\obj\Debug\netcoreapp3.1\27. Human readable duration format.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\obj\Debug\netcoreapp3.1\27. Human readable duration format.dll
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\obj\Debug\netcoreapp3.1\27. Human readable duration format.pdb
+C:\Users\User\source\repos\01 Codewars\27. Human readable duration format\obj\Debug\netcoreapp3.1\27. Human readable duration format.genruntimeconfig.cache
