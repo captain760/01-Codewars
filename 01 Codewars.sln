@@ -53,13 +53,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24. Move all zeroes to the 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25.Numbers that are a power of their sum of digits", "25.Numbers that are a power of their sum of digits\25.Numbers that are a power of their sum of digits.csproj", "{DE844380-E232-4BF0-B636-B6DBDF31CE0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Snail Sort", "26. Snail Sort\26. Snail Sort.csproj", "{B709DD26-71AE-4BBF-A439-5666B820567E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26. Snail Sort", "26. Snail Sort\26. Snail Sort.csproj", "{B709DD26-71AE-4BBF-A439-5666B820567E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Human readable duration format", "27. Human readable duration format\27. Human readable duration format.csproj", "{B0E70886-D472-41A4-ABDE-39BE18E64010}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27. Human readable duration format", "27. Human readable duration format\27. Human readable duration format.csproj", "{B0E70886-D472-41A4-ABDE-39BE18E64010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Beautiful numbers", "28. Beautiful numbers\28. Beautiful numbers.csproj", "{CE286A17-18C1-48EC-9472-E32BEF32555A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28. Beautiful numbers", "28. Beautiful numbers\28. Beautiful numbers.csproj", "{CE286A17-18C1-48EC-9472-E32BEF32555A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29. First Variation on Caesar Cipher", "29. First Variation on Caesar Cipher\29. First Variation on Caesar Cipher.csproj", "{C20E6C8F-D738-4B8A-8563-09361C406C03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29. First Variation on Caesar Cipher", "29. First Variation on Caesar Cipher\29. First Variation on Caesar Cipher.csproj", "{C20E6C8F-D738-4B8A-8563-09361C406C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30.Valid Parenthesys", "30.Valid Parenthesys\30.Valid Parenthesys.csproj", "{227D691E-577C-4D47-B9B8-66D84379ECB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{C20E6C8F-D738-4B8A-8563-09361C406C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C20E6C8F-D738-4B8A-8563-09361C406C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C20E6C8F-D738-4B8A-8563-09361C406C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227D691E-577C-4D47-B9B8-66D84379ECB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227D691E-577C-4D47-B9B8-66D84379ECB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227D691E-577C-4D47-B9B8-66D84379ECB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227D691E-577C-4D47-B9B8-66D84379ECB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
