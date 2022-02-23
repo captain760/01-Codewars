@@ -8,7 +8,7 @@ namespace _02_isSquare
         {
             int n = int.Parse(Console.ReadLine());
             Console.WriteLine($"{n} => {Kata.IsSquare(n)}");
-           
+
         }
     }
     public class Kata
@@ -18,13 +18,13 @@ namespace _02_isSquare
             bool isSqr = false;
             for (int i = 0; i < 44335; i++)
             {
-                if (n==i*i)
+                if (n == i * i)
                 {
                     isSqr = true;
                     break;
                 }
             }
-            
+
             return isSqr;
         }
     }

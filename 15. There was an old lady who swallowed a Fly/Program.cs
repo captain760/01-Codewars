@@ -1,4 +1,4 @@
-﻿using System; 
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -8,7 +8,7 @@ namespace _15._There_was_an_old_lady_who_swallowed_a_Fly
     {
         public static List<string> OldLadySwallows(List<string> animals)
         {
-            List<string> line = new List<string>{ "fly", "spider", "bird", "cat", "dog", "goat", "cow", "horse" };
+            List<string> line = new List<string> { "fly", "spider", "bird", "cat", "dog", "goat", "cow", "horse" };
             if (animals.Contains("horse"))
             {
                 int ind = animals.IndexOf("horse");
@@ -74,6 +74,6 @@ namespace _15._There_was_an_old_lady_who_swallowed_a_Fly
             List<string> animals = Console.ReadLine().Split(", ").ToList();
             Dinglemouse.OldLadySwallows(animals);
             Console.WriteLine(string.Join(" ", animals));
-         }
+        }
     }
 }

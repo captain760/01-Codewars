@@ -6,7 +6,7 @@ namespace _28._Beautiful_numbers
     {
         static void Main(string[] args)
         {
-            
+
             int counter = 0;
             for (int a = 1; a < 4; a++)
             {
@@ -28,13 +28,13 @@ namespace _28._Beautiful_numbers
                                             {
                                                 for (int k = 1; k < 4; k++)
                                                 {
-                                                   
-                                                        if (Math.Abs(a-b)==1 && Math.Abs(b - c) == 1 && Math.Abs(c - d) == 1 && Math.Abs(d - e) == 1 && Math.Abs(e - f) == 1 && Math.Abs(f - g) == 1 && Math.Abs(g - h) == 1 && Math.Abs(h - j) == 1 && Math.Abs(j - k) == 1)
-                                                        {
-                                                            counter++;
-                                                            Console.WriteLine($"{counter} ==== {a}{b}{c}{d}{e}{f}{g}{h}{j}{k}");
-                                                        }
-                                                    
+
+                                                    if (Math.Abs(a - b) == 1 && Math.Abs(b - c) == 1 && Math.Abs(c - d) == 1 && Math.Abs(d - e) == 1 && Math.Abs(e - f) == 1 && Math.Abs(f - g) == 1 && Math.Abs(g - h) == 1 && Math.Abs(h - j) == 1 && Math.Abs(j - k) == 1)
+                                                    {
+                                                        counter++;
+                                                        Console.WriteLine($"{counter} ==== {a}{b}{c}{d}{e}{f}{g}{h}{j}{k}");
+                                                    }
+
                                                 }
                                             }
                                         }

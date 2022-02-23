@@ -22,7 +22,7 @@ namespace _12._Human_Readable_Time
             seconds = seconds - 3600 * hrs;
             int min = seconds / 60;
             seconds = seconds - 60 * min;
-            if (hrs<10)
+            if (hrs < 10)
             {
                 h = "0" + hrs;
             }

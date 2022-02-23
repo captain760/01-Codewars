@@ -15,13 +15,13 @@ namespace _22._Prime_factors
                 lst /= 2;
                 val2++;
             }
-            if (val2>0)
+            if (val2 > 0)
             {
                 primes.Add(2, val2);
             }
-            
-            
-            for (int i = 3; i <= lst; i+=2)
+
+
+            for (int i = 3; i <= lst; i += 2)
             {
                 //bool isPrime = true;
                 int vali = 0;
@@ -37,32 +37,32 @@ namespace _22._Prime_factors
                 //{
                 //    continue;
                 //}
-                while (lst%i==0)
+                while (lst % i == 0)
                 {
                     lst /= i;
                     vali++;
                 }
-                if (vali>0)
+                if (vali > 0)
                 {
                     primes.Add(i, vali);
                 }
-                
+
             }
 
 
             string res = "";
             foreach (var item in primes)
             {
-                if (item.Value ==1)
+                if (item.Value == 1)
                 {
-                    res += $"({item.Key})"; 
+                    res += $"({item.Key})";
                 }
                 else
                 {
                     res += $"({item.Key}**{item.Value})";
                 }
             }
-            
+
             return res;
         }
     }

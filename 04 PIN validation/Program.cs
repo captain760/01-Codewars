@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace _04_PIN_validation
+﻿namespace _04_PIN_validation
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
     public class Kata
@@ -28,7 +26,7 @@ namespace _04_PIN_validation
                 }
             }
             return isValid;
-            
+
         }
     }
 }

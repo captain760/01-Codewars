@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\bin\Debug\netcoreapp3.1\32. Battleship field validator.exe
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\bin\Debug\netcoreapp3.1\32. Battleship field validator.deps.json
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\bin\Debug\netcoreapp3.1\32. Battleship field validator.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\bin\Debug\netcoreapp3.1\32. Battleship field validator.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\bin\Debug\netcoreapp3.1\32. Battleship field validator.dll
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\bin\Debug\netcoreapp3.1\32. Battleship field validator.pdb
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\obj\Debug\netcoreapp3.1\32. Battleship field validator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\obj\Debug\netcoreapp3.1\32. Battleship field validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\obj\Debug\netcoreapp3.1\32. Battleship field validator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\obj\Debug\netcoreapp3.1\32. Battleship field validator.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\obj\Debug\netcoreapp3.1\32. Battleship field validator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\obj\Debug\netcoreapp3.1\32. Battleship field validator.dll
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\obj\Debug\netcoreapp3.1\32. Battleship field validator.pdb
+C:\Users\User\source\repos\01 Codewars\32. Battleship field validator\obj\Debug\netcoreapp3.1\32. Battleship field validator.genruntimeconfig.cache

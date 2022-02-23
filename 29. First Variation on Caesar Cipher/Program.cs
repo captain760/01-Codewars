@@ -11,8 +11,8 @@ namespace _29._First_Variation_on_Caesar_Cipher
             var parts = new List<string>();
             int devider = 0;
             for (int i = 0; i < s.Length; i++)
-            {              
-                if (s[i]>64 && s[i]<91)
+            {
+                if (s[i] > 64 && s[i] < 91)
                 {
                     if ((char)(((shift + s[i] - 64) % 26) + 64) == '@')
                     {
@@ -34,19 +34,19 @@ namespace _29._First_Variation_on_Caesar_Cipher
                     {
                         result += (char)(((shift + s[i] - 96) % 26) + 96);
                     }
-                    
+
                 }
                 else
                 {
                     result += s[i];
-                }                
+                }
                 shift++;
             }
             devider = (int)Math.Ceiling(1.0 * s.Length / 5);
             for (int i = 0; i < 5; i++)
             {
 
-                if (i*devider<result.Length && i<4)
+                if (i * devider < result.Length && i < 4)
                 {
                     parts.Add(result.Substring(i * devider, devider));
                 }
@@ -54,7 +54,7 @@ namespace _29._First_Variation_on_Caesar_Cipher
                 {
                     parts.Add(result.Substring(i * devider));
                 }
-                
+
             }
             return parts;
         }
@@ -72,17 +72,17 @@ namespace _29._First_Variation_on_Caesar_Cipher
                 int delta = shift;
                 if (result[i] > 64 && result[i] < 91)
                 {
-                    
-                    if ((result[i] - shift)<64)
+
+                    if ((result[i] - shift) < 64)
                     {
-                        delta = shift-26;
-                        
+                        delta = shift - 26;
+
                     }
-                    
-                        answear += (char)(result[i] - delta);
-                    
-                        
-                    
+
+                    answear += (char)(result[i] - delta);
+
+
+
                 }
                 else if (result[i] > 96 && result[i] < 123)
                 {
@@ -91,15 +91,15 @@ namespace _29._First_Variation_on_Caesar_Cipher
                         delta = shift - 26;
                     }
 
-                        answear += (char)(result[i] - delta);
-                    
+                    answear += (char)(result[i] - delta);
+
                 }
                 else
                 {
                     answear += result[i];
                 }
                 shift++;
-                if (shift>26)
+                if (shift > 26)
                 {
                     shift -= 26;
                 }
@@ -113,7 +113,7 @@ namespace _29._First_Variation_on_Caesar_Cipher
         static void Main(string[] args)
         {
 
-            string u = "I should have known that you would have a perfect answer for me!!!"; 
+            string u = "I should have known that you would have a perfect answer for me!!!";
             Console.WriteLine(CaesarCipher.demovingShift(CaesarCipher.movingShift(u, 1), 1));
         }
     }

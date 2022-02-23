@@ -12,7 +12,7 @@ namespace _10._Anagrams
             List<string> words = Console.ReadLine().Split(",").ToList();
             List<string> anaWords = new List<string>();
             anaWords = Kata.Anagrams(keyWord, words);
-            Console.WriteLine(string.Join(",",anaWords));
+            Console.WriteLine(string.Join(",", anaWords));
         }
     }
     public static class Kata
@@ -27,10 +27,10 @@ namespace _10._Anagrams
                     string currentWord = words[i];
                     for (int j = 0; j < word.Length; j++)
                     {
-                        
+
                         if (currentWord.Contains(word[j].ToString()))
                         {
-                            currentWord = ChangeWord(currentWord, word[j]); 
+                            currentWord = ChangeWord(currentWord, word[j]);
                         }
                     }
                     if (currentWord == "")
@@ -38,9 +38,9 @@ namespace _10._Anagrams
                         anaWords.Add(words[i]);
                     }
                 }
-                
+
             }
-            
+
             return anaWords;
         }
 
@@ -57,11 +57,11 @@ namespace _10._Anagrams
                 }
                 else
                 {
-                    
+
                     isFound = true;
                 }
             }
-            for (int i = 0; i < currentWord.Length-1; i++)
+            for (int i = 0; i < currentWord.Length - 1; i++)
             {
                 reducedWord += newWord[i];
             }

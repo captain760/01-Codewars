@@ -7,7 +7,7 @@ namespace temp
         static void Main(string[] args)
         {
             string str = Console.ReadLine();
-            
+
             Console.WriteLine(Kata.Disemvowel(str));
         }
     }
@@ -31,14 +31,14 @@ namespace temp
                     case 'E':
                     case 'I':
                     case 'U':
-                    
+
                         {
                             newStr = "";
                             for (int k = 0; k < i; k++)
                             {
                                 newStr += str[k];
                             }
-                            for (int l = i+1 ; l < str.Length; l++)
+                            for (int l = i + 1; l < str.Length; l++)
                             {
                                 newStr += str[l];
                             }

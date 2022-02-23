@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace _17._Did_You_Mean
 {
-    
+
 
     public class Kata
     {

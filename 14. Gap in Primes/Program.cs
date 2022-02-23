@@ -7,8 +7,8 @@ namespace _14._Gap_in_Primes
     {
         static void Main(string[] args)
         {
-            int g = int.Parse(Console.ReadLine()); 
-            int m = int.Parse(Console.ReadLine()); 
+            int g = int.Parse(Console.ReadLine());
+            int m = int.Parse(Console.ReadLine());
             int n = int.Parse(Console.ReadLine());
             long[] rez = new long[2];
             rez = GapInPrimes.Gap(g, m, n);
@@ -26,7 +26,7 @@ namespace _14._Gap_in_Primes
             {
                 for (int j = 2; j <= Math.Sqrt(i); j++)
                 {
-                    if (i%j == 0)
+                    if (i % j == 0)
                     {
                         isNotPrime = true;
                         break;
@@ -39,16 +39,16 @@ namespace _14._Gap_in_Primes
                 isNotPrime = false;
             }
             //Console.WriteLine(string.Join(",", primes));
-            for (int i = 0; i < primes.Count-1; i++)
+            for (int i = 0; i < primes.Count - 1; i++)
             {
-                if ((primes[i+1] - primes[i]) == g)
+                if ((primes[i + 1] - primes[i]) == g)
                 {
                     rez[0] = primes[i];
-                    rez[1] = primes[i+1];
+                    rez[1] = primes[i + 1];
                     return rez;
                 }
             }
-            
+
             return rez;
         }
     }

@@ -8,11 +8,11 @@ namespace _11._Morse_code1
     {
         static void Main(string[] args)
         {
-            
-            
+
+
 
             string morse = Console.ReadLine();
-            
+
             Console.WriteLine(MorseCodeDecoder.Decode(morse));
         }
     }
@@ -31,13 +31,13 @@ namespace _11._Morse_code1
                 {
                     test += MorseCode(currentWord[j]);
                 }
-                if (i != morseWords.Count-1)
+                if (i != morseWords.Count - 1)
                 {
                     test += " ";
                 }
-                
+
             }
-            
+
             return test;
         }
         public static string MorseCode(string c1)

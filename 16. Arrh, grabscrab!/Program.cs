@@ -4,8 +4,8 @@ using System.Text;
 
 namespace _16._Arrh__grabscrab_
 {
-    
-    
+
+
 
     public static class Kata
     {
@@ -30,7 +30,7 @@ namespace _16._Arrh__grabscrab_
                         result.Add(item);
                     }
                 }
-                
+
             }
             return result;
         }
@@ -39,7 +39,7 @@ namespace _16._Arrh__grabscrab_
     {
         static void Main(string[] args)
         {
-            List<string> dict = new List<string>{"donkey", "pool", "horse","loop" };
+            List<string> dict = new List<string> { "donkey", "pool", "horse", "loop" };
             string anagram = Console.ReadLine();
             List<string> result = new List<string>();
             result = Kata.Grabscrab(anagram, dict);

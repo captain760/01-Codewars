@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text;
 
 namespace _19.First_non_repeating_character
 {
@@ -20,7 +19,7 @@ namespace _19.First_non_repeating_character
                     isFound = true;
                     break;
                 }
-               
+
             }
             if (isFound)
             {

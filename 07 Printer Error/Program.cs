@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace _07_Printer_Error
 {
@@ -17,17 +16,17 @@ namespace _07_Printer_Error
         {
             string colors = "abcdefghijklm";
             int errors = 0;
-            
+
             for (int i = 0; i < s.Length; i++)
             {
                 for (int j = 0; j < colors.Length; j++)
-                
-                if (s[i] == colors[j])
-                {
-                    errors++;
-                }
+
+                    if (s[i] == colors[j])
+                    {
+                        errors++;
+                    }
             }
-            return ((s.Length-errors) + "/" + s.Length);
+            return ((s.Length - errors) + "/" + s.Length);
         }
     }
 }

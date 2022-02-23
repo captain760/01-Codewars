@@ -41,8 +41,8 @@ namespace _03_Ten_Minutes_Walk
                 step++;
 
             }
-            
-            if (northSouth == 0 && eastWest==0 && step == 10)
+
+            if (northSouth == 0 && eastWest == 0 && step == 10)
             {
                 isValid = true;
             }

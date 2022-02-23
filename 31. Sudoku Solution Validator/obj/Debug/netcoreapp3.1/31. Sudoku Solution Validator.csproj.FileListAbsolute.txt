@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\bin\Debug\netcoreapp3.1\31. Sudoku Solution Validator.exe
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\bin\Debug\netcoreapp3.1\31. Sudoku Solution Validator.deps.json
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\bin\Debug\netcoreapp3.1\31. Sudoku Solution Validator.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\bin\Debug\netcoreapp3.1\31. Sudoku Solution Validator.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\bin\Debug\netcoreapp3.1\31. Sudoku Solution Validator.dll
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\bin\Debug\netcoreapp3.1\31. Sudoku Solution Validator.pdb
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\obj\Debug\netcoreapp3.1\31. Sudoku Solution Validator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\obj\Debug\netcoreapp3.1\31. Sudoku Solution Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\obj\Debug\netcoreapp3.1\31. Sudoku Solution Validator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\obj\Debug\netcoreapp3.1\31. Sudoku Solution Validator.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\obj\Debug\netcoreapp3.1\31. Sudoku Solution Validator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\obj\Debug\netcoreapp3.1\31. Sudoku Solution Validator.dll
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\obj\Debug\netcoreapp3.1\31. Sudoku Solution Validator.pdb
+C:\Users\User\source\repos\01 Codewars\31. Sudoku Solution Validator\obj\Debug\netcoreapp3.1\31. Sudoku Solution Validator.genruntimeconfig.cache

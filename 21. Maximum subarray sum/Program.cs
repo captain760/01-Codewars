@@ -11,25 +11,25 @@ namespace _21._Maximum_subarray_sum
             int totalMaxSum = int.MinValue;
             for (int i = 0; i < arr.Length; i++)
             {
-               
+
                 int maxSum = int.MinValue;
                 int currSum = 0;
                 for (int j = i; j < arr.Length; j++)
                 {
                     currSum += arr[j];
-                    if (currSum>maxSum)
+                    if (currSum > maxSum)
                     {
-                        
+
                         maxSum = currSum;
 
                     }
                 }
-                if (totalMaxSum<maxSum)
+                if (totalMaxSum < maxSum)
                 {
                     totalMaxSum = maxSum;
                 }
             }
-            if (arr.Length>0)
+            if (arr.Length > 0)
             {
                 return totalMaxSum;
             }

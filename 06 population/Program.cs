@@ -10,7 +10,7 @@ namespace _06_population
             double percent = double.Parse(Console.ReadLine());
             int aug = int.Parse(Console.ReadLine());
             int p = int.Parse(Console.ReadLine());
-            Console.WriteLine(Arge.NbYear(p0,percent,aug,p));
+            Console.WriteLine(Arge.NbYear(p0, percent, aug, p));
         }
     }
     class Arge
@@ -21,11 +21,11 @@ namespace _06_population
 
             int currentPop = p0;
             int years = 0;
-            while (p>=currentPop)
+            while (p >= currentPop)
             {
                 years++;
                 currentPop += (int)(currentPop * (percent / 100)) + aug;
-                
+
             }
             return years;
         }

@@ -29,7 +29,7 @@ namespace _30.Valid_Parenthesys
                     }
                 }
             }
-            if (parenthesys.Count>0)
+            if (parenthesys.Count > 0)
             {
                 IsValid = false;
             }

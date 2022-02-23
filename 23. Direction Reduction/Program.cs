@@ -8,7 +8,7 @@ namespace _23._Direction_Reduction
 
         public static string[] dirReduc(String[] arr)
         {
-            List<string> res = new List<string>();           
+            List<string> res = new List<string>();
             foreach (var item in arr)
             {
                 res.Add(item);
@@ -27,7 +27,7 @@ namespace _23._Direction_Reduction
                 {
                     res.RemoveAt(counter);
                     res.RemoveAt(counter);
-                    if (counter>0)
+                    if (counter > 0)
                     {
                         counter--;
                     }
@@ -51,9 +51,9 @@ namespace _23._Direction_Reduction
         static void Main(string[] args)
         {
             string[] a = new string[] { "NORTH", "WEST", "SOUTH", "EAST" };
-            
+
             Console.WriteLine(string.Join(", ", DirReduction.dirReduc(a)));
-            
+
         }
     }
 }

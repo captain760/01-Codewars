@@ -14,7 +14,7 @@ namespace _18._How_much_is_the_fish
             int[] decimals = new int[hexesInWord.Length];
             for (int i = 0; i < hexesInWord.Length; i++)
             {
-                dec[i] =hexesInWord[i].ToString().ToLower();
+                dec[i] = hexesInWord[i].ToString().ToLower();
                 switch (dec[i])
                 {
                     case "a":
@@ -52,7 +52,7 @@ namespace _18._How_much_is_the_fish
                         break;
                 }
             }
-            if (decimals.Length>0)
+            if (decimals.Length > 0)
             {
                 hm = decimals[0];
                 for (int i = 1; i < decimals.Length; i++)
@@ -60,7 +60,7 @@ namespace _18._How_much_is_the_fish
                     hm ^= decimals[i];
                 }
             }
-            
+
             return hm;
         }
     }

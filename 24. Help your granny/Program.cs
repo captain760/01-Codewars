@@ -16,13 +16,13 @@ namespace _24._Move_all_zeroes_to_the_end
                 {
                     list.RemoveAt(i);
                     list.Add(0);
-                    if (list[i]==0)
+                    if (list[i] == 0)
                     {
                         i--;
-                    }      
+                    }
                 }
                 j--;
-                if (j==0)
+                if (j == 0)
                 {
                     break;
                 }
@@ -35,7 +35,7 @@ namespace _24._Move_all_zeroes_to_the_end
         static void Main(string[] args)
         {
             //Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.  
-            Console.WriteLine(string.Join(", ",  Kata.MoveZeroes(new int[] { 1, 0, 0, 0, 0, 1, 0, 3, 0, 1 })));
+            Console.WriteLine(string.Join(", ", Kata.MoveZeroes(new int[] { 1, 0, 0, 0, 0, 1, 0, 3, 0, 1 })));
         }
     }
 }

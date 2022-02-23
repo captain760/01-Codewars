@@ -22,30 +22,30 @@ namespace _25.Numbers_that_are_a_power_of_their_sum_of_digits
 
             long result = 81;
             int k = 0;
-            while (index != n && k<sortedPowers.Count)
+            while (index != n && k < sortedPowers.Count)
             {
                 result = sortedPowers[k];
-                    long res = result;
-                    long sum = 0;
-                    while (res != 0)
+                long res = result;
+                long sum = 0;
+                while (res != 0)
+                {
+                    sum += res % 10;
+                    res /= 10;
+                }
+                for (int l = 2; l < 15; l++)
+                {
+                    if (Math.Pow(sum, l) == result)
                     {
-                        sum += res % 10;
-                        res /= 10;
+                        index++;
                     }
-                    for (int l = 2; l < 15; l++)
-                    {
-                        if (Math.Pow(sum, l) == result)
-                        {
-                            index++;
-                        }
-                    }
-                
+                }
+
                 k++;
             }
-            
-                return result;
+
+            return result;
         }
-        
+
     }
 
 
