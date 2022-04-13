@@ -61,11 +61,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28. Beautiful numbers", "28
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29. First Variation on Caesar Cipher", "29. First Variation on Caesar Cipher\29. First Variation on Caesar Cipher.csproj", "{C20E6C8F-D738-4B8A-8563-09361C406C03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30.Valid Parenthesys", "30.Valid Parenthesys\30.Valid Parenthesys.csproj", "{227D691E-577C-4D47-B9B8-66D84379ECB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30.Valid Parenthesys", "30.Valid Parenthesys\30.Valid Parenthesys.csproj", "{227D691E-577C-4D47-B9B8-66D84379ECB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31. Sudoku Solution Validator", "31. Sudoku Solution Validator\31. Sudoku Solution Validator.csproj", "{CC9017A6-C638-43D6-A7E3-D6328E6051E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31. Sudoku Solution Validator", "31. Sudoku Solution Validator\31. Sudoku Solution Validator.csproj", "{CC9017A6-C638-43D6-A7E3-D6328E6051E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32. Battleship field validator", "32. Battleship field validator\32. Battleship field validator.csproj", "{02A8810C-0AAF-46A1-A89F-ED882487F88A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32. Battleship field validator", "32. Battleship field validator\32. Battleship field validator.csproj", "{02A8810C-0AAF-46A1-A89F-ED882487F88A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33 Array.diff", "33 Array.diff\33 Array.diff.csproj", "{F89EDFC9-A767-48CF-8098-1DE6F8E0E788}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{02A8810C-0AAF-46A1-A89F-ED882487F88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02A8810C-0AAF-46A1-A89F-ED882487F88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02A8810C-0AAF-46A1-A89F-ED882487F88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89EDFC9-A767-48CF-8098-1DE6F8E0E788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89EDFC9-A767-48CF-8098-1DE6F8E0E788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89EDFC9-A767-48CF-8098-1DE6F8E0E788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89EDFC9-A767-48CF-8098-1DE6F8E0E788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
