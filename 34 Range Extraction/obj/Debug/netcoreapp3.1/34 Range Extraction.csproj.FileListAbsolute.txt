@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\bin\Debug\netcoreapp3.1\34 Range Extraction.exe
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\bin\Debug\netcoreapp3.1\34 Range Extraction.deps.json
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\bin\Debug\netcoreapp3.1\34 Range Extraction.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\bin\Debug\netcoreapp3.1\34 Range Extraction.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\bin\Debug\netcoreapp3.1\34 Range Extraction.dll
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\bin\Debug\netcoreapp3.1\34 Range Extraction.pdb
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\obj\Debug\netcoreapp3.1\34 Range Extraction.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\obj\Debug\netcoreapp3.1\34 Range Extraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\obj\Debug\netcoreapp3.1\34 Range Extraction.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\obj\Debug\netcoreapp3.1\34 Range Extraction.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\obj\Debug\netcoreapp3.1\34 Range Extraction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\obj\Debug\netcoreapp3.1\34 Range Extraction.dll
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\obj\Debug\netcoreapp3.1\34 Range Extraction.pdb
+C:\Users\User\source\repos\01 Codewars\34 Range Extraction\obj\Debug\netcoreapp3.1\34 Range Extraction.genruntimeconfig.cache

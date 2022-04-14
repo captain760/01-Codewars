@@ -69,6 +69,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32. Battleship field valida
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33 Array.diff", "33 Array.diff\33 Array.diff.csproj", "{F89EDFC9-A767-48CF-8098-1DE6F8E0E788}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34 Range Extraction", "34 Range Extraction\34 Range Extraction.csproj", "{C96764BE-1231-42ED-BD6A-D6481B971E32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{F89EDFC9-A767-48CF-8098-1DE6F8E0E788}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F89EDFC9-A767-48CF-8098-1DE6F8E0E788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F89EDFC9-A767-48CF-8098-1DE6F8E0E788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C96764BE-1231-42ED-BD6A-D6481B971E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96764BE-1231-42ED-BD6A-D6481B971E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96764BE-1231-42ED-BD6A-D6481B971E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96764BE-1231-42ED-BD6A-D6481B971E32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
