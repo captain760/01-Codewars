@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\bin\Debug\netcoreapp3.1\35 Next bigger number with the same digits.exe
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\bin\Debug\netcoreapp3.1\35 Next bigger number with the same digits.deps.json
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\bin\Debug\netcoreapp3.1\35 Next bigger number with the same digits.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\bin\Debug\netcoreapp3.1\35 Next bigger number with the same digits.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\bin\Debug\netcoreapp3.1\35 Next bigger number with the same digits.dll
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\bin\Debug\netcoreapp3.1\35 Next bigger number with the same digits.pdb
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\obj\Debug\netcoreapp3.1\35 Next bigger number with the same digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\obj\Debug\netcoreapp3.1\35 Next bigger number with the same digits.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\obj\Debug\netcoreapp3.1\35 Next bigger number with the same digits.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\obj\Debug\netcoreapp3.1\35 Next bigger number with the same digits.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\obj\Debug\netcoreapp3.1\35 Next bigger number with the same digits.dll
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\obj\Debug\netcoreapp3.1\35 Next bigger number with the same digits.pdb
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\obj\Debug\netcoreapp3.1\35 Next bigger number with the same digits.genruntimeconfig.cache
+C:\Users\User\source\repos\01 Codewars\35 Next bigger number with the same digits\obj\Debug\netcoreapp3.1\35 Next bigger number with the same digits.csproj.AssemblyReference.cache

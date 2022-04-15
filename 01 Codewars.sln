@@ -67,9 +67,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31. Sudoku Solution Validat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32. Battleship field validator", "32. Battleship field validator\32. Battleship field validator.csproj", "{02A8810C-0AAF-46A1-A89F-ED882487F88A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33 Array.diff", "33 Array.diff\33 Array.diff.csproj", "{F89EDFC9-A767-48CF-8098-1DE6F8E0E788}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33 Array.diff", "33 Array.diff\33 Array.diff.csproj", "{F89EDFC9-A767-48CF-8098-1DE6F8E0E788}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34 Range Extraction", "34 Range Extraction\34 Range Extraction.csproj", "{C96764BE-1231-42ED-BD6A-D6481B971E32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34 Range Extraction", "34 Range Extraction\34 Range Extraction.csproj", "{C96764BE-1231-42ED-BD6A-D6481B971E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35 Next bigger number with the same digits", "35 Next bigger number with the same digits\35 Next bigger number with the same digits.csproj", "{A5AB5A02-A2F8-4B32-86F6-3A2F6846FFB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{C96764BE-1231-42ED-BD6A-D6481B971E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C96764BE-1231-42ED-BD6A-D6481B971E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C96764BE-1231-42ED-BD6A-D6481B971E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5AB5A02-A2F8-4B32-86F6-3A2F6846FFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AB5A02-A2F8-4B32-86F6-3A2F6846FFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AB5A02-A2F8-4B32-86F6-3A2F6846FFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AB5A02-A2F8-4B32-86F6-3A2F6846FFB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
