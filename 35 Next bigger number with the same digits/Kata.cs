@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace _35_Next_bigger_number_with_the_same_digits
@@ -7,28 +8,17 @@ namespace _35_Next_bigger_number_with_the_same_digits
     {
         public static long NextBiggerNumber(long n)
         {
-            char[] n1 = n.ToString().ToCharArray();
-            Array.Sort(n1);
-            string sortedNumberFirst = new string(n1);
-
-                        
-            while (true)
+            string number = n.ToString();            
+            long maxPossibleNumber = long.Parse(string.Join("", number.ToCharArray().OrderByDescending(x => x)));
+            for (long i = n+1; i <= maxPossibleNumber; i++)
             {
-                n++;
-                char[] n2 = n.ToString().ToCharArray();
-                Array.Sort(n2);
-                string sortedNumberSecond = new string(n2);
-                if (sortedNumberFirst.Length < sortedNumberSecond.Length)
+                long nextNumberSorted = long.Parse(string.Join("", i.ToString().ToCharArray().OrderByDescending(x => x)));
+                if (nextNumberSorted == maxPossibleNumber)
                 {
-                    return -1;
+                    return i;
                 }
-                                
-                if (sortedNumberSecond == sortedNumberFirst)
-                {
-                    return n;
-                }
-                 
-            }                        
+            }
+            return -1;
         }
     }
 }
