@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\bin\Debug\netcoreapp3.1\TheObservedPIN.exe
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\bin\Debug\netcoreapp3.1\TheObservedPIN.deps.json
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\bin\Debug\netcoreapp3.1\TheObservedPIN.runtimeconfig.json
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\bin\Debug\netcoreapp3.1\TheObservedPIN.runtimeconfig.dev.json
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\bin\Debug\netcoreapp3.1\TheObservedPIN.dll
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\bin\Debug\netcoreapp3.1\TheObservedPIN.pdb
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\obj\Debug\netcoreapp3.1\TheObservedPIN.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\obj\Debug\netcoreapp3.1\TheObservedPIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\obj\Debug\netcoreapp3.1\TheObservedPIN.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\obj\Debug\netcoreapp3.1\TheObservedPIN.AssemblyInfo.cs
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\obj\Debug\netcoreapp3.1\TheObservedPIN.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\obj\Debug\netcoreapp3.1\TheObservedPIN.csproj.CopyComplete
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\obj\Debug\netcoreapp3.1\TheObservedPIN.dll
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\obj\Debug\netcoreapp3.1\TheObservedPIN.pdb
+C:\Users\User\source\repos\01 Codewars\TheObservedPIN\obj\Debug\netcoreapp3.1\TheObservedPIN.genruntimeconfig.cache
